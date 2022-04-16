@@ -5,8 +5,11 @@ permalink: /questions/general-questions/index.html
 ---
 
 * What did you learn yesterday/this week?
->test
+> In order to practice Vue and its differences from React, I am building a Linktree clone utilising a store's global state and its getters, actions and mutations to share state between separate components; a task that is not as simple with React.
+
 * What excites or interests you about coding?
+> Whenever I have an idea, knowing that I have the skillset to make it a reality is very exciting and freeing. The more I learn the more I can create, so I never want to stop learning.
+
 * What is a recent technical challenge you experienced and how did you solve it?
 * When building a new web site or maintaining one, can you explain some techniques you have used to increase performance?
 * Can you describe some SEO best practices or techniques you have used lately?
